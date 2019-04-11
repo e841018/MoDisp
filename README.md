@@ -6,14 +6,14 @@ A brief explanaiton of how MoDisp works can be found in `MoDisp_brief_eng.pdf`.
 
 The prototype has won 2 awards in 2018, and is still under development.
 
-A [demo video](https://youtu.be/CasiWIhfjWg) is available, editor: HongCheng Zheng
+A [demo video](https://youtu.be/CasiWIhfjWg) is available, editor: [HongChengZheng](https://github.com/HongChengZheng)
 
 ## controller
 
 * Run on Raspberry Pi or C.H.I.P.
 * Act as a gateway between the web UI and the MoDisp protocol
 * Mainly contributed by e841018
-* Thanks to HongCheng Zheng for discussion and developing the first UI prototype
+* Thanks to [HongChengZheng](https://github.com/HongChengZheng) for discussion and developing the first UI prototype
 
 ## module
 
